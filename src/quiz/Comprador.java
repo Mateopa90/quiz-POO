@@ -10,7 +10,6 @@ package quiz;
  * @author Estudiante
  */
 public class Comprador extends Usuario{
-    
     private Artista artista;
     private Obra obras;
 
